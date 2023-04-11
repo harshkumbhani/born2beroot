@@ -1,6 +1,6 @@
-## Evaluations Questions 
+# Evaluations Questions 
 
-# 1. APT vs APTITUTE
+## 1. APT vs APTITUTE
 
 Aptitude is a **high-level package manager** that provides a more user-friendly interface for managing packages. 
 It has a text-based GUI that allows users to search, browse, and install packages with ease. 
